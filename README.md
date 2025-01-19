@@ -13,9 +13,6 @@ A simple Netflix clone created using **HTML** and **CSS** to demonstrate a respo
 - **HTML5**: For the structure of the web page.
 - **CSS3**: For styling and layout, including responsive design.
 
-## Screenshots
-![Netflix Clone Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder)
-
 ## How to Run the Project
 1. Clone the repository or download the files.
 2. Open the `index.html` file in your preferred browser.
